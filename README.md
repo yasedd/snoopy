@@ -59,7 +59,8 @@ This game provides a basic console environment with a map, Snoopy, birds, and a 
 
 ## Screenshots
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](start.png)
+![Gameplay](game.png)
 
 ## Acknowledgments
 
